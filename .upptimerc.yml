@@ -1,6 +1,5 @@
-# Change these first
-owner: Raznar-Hosting # Your GitHub organization or username, where this repository lives
-repo: uptime-monitor # The name of this repository
+owner: Raznar-Hosting 
+repo: uptime-monitor 
 
 assignees:
   - hansputera
@@ -12,23 +11,27 @@ sites:
     url: https://game.hosting.raznar.id
   - name: App Hosting Panel
     url: https://app.hosting.raznar.id
+    
+user-agent: raznar-hosting
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: up.raznar.id
   baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Raznar
   status-website:
     apiBaseUrl: https://api.github.com
+    theme: night
   introTitle: "Raznar Hosting Uptime Pages"
   introMessage: "Hey!"
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Discord
+      href: https://raznar.id/discord
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "Raznar Uptime"
+  commitAuthorEmail: "support@raznar.id"
