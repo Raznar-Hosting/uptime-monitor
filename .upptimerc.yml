@@ -15,8 +15,7 @@ sites:
 user-agent: raznar-hosting
 
 status-website:
-  #cname: up.raznar.id
-  baseUrl: /uptime-monitor
+  cname: up.raznar.id
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Raznar
   status-website:
