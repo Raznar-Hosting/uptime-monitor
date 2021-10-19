@@ -6,6 +6,10 @@ assignees:
   - NotYusta
   - KJosh541
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 sites:
   - name: Main Website
     url: https://raznar.id
