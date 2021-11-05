@@ -22,9 +22,9 @@
     "url": "https://game.hosting.raznar.id",
     "icon": "https://favicons.githubusercontent.com/game.hosting.raznar.id",
     "slug": "game-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1187,
     "timeMonth": 1150,
     "timeYear": 1150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   },
   {
     "name": "App Hosting Panel",
