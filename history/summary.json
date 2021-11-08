@@ -4,10 +4,10 @@
     "url": "https://raznar.id",
     "icon": "https://favicons.githubusercontent.com/raznar.id",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1120,
@@ -15,16 +15,18 @@
     "timeWeek": 1108,
     "timeMonth": 1120,
     "timeYear": 1120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-08": 1
+    }
   },
   {
     "name": "Game Hosting Panel",
     "url": "https://game.hosting.raznar.id",
     "icon": "https://favicons.githubusercontent.com/game.hosting.raznar.id",
     "slug": "game-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -34,6 +36,7 @@
     "timeMonth": 1152,
     "timeYear": 1152,
     "dailyMinutesDown": {
+      "2021-11-08": 1,
       "2021-11-06": 27,
       "2021-11-05": 6
     }
@@ -43,7 +46,7 @@
     "url": "https://app.hosting.raznar.id",
     "icon": "https://favicons.githubusercontent.com/app.hosting.raznar.id",
     "slug": "app-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +57,8 @@
     "timeWeek": 1102,
     "timeMonth": 1114,
     "timeYear": 1114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-08": 0
+    }
   }
 ]
