@@ -2,7 +2,6 @@ owner: Raznar-Hosting
 repo: uptime-monitor 
 
 assignees:
-  - hansputera
   - NotYusta
   - KJosh541
 
@@ -38,5 +37,5 @@ status-website:
       href: https://raznar.id/discord
 
 commitMessages:
-  commitAuthorName: "hansputera"
-  commitAuthorEmail: "hanif@tslab.site"
+  commitAuthorName: "NotYusta"
+  commitAuthorEmail: "support@raznar.id"
