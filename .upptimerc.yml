@@ -12,10 +12,8 @@ skipHomepageUpdate: true
 sites:
   - name: Main Website
     url: https://raznar.id
-  - name: Game Hosting Panel
-    url: https://game.hosting.raznar.id
-  - name: App Hosting Panel
-    url: https://app.hosting.raznar.id
+  - name: Panel Control
+    url: https://console.raznar.host
     
 user-agent: raznar-hosting
 
