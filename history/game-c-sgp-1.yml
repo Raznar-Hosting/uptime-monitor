@@ -1,7 +1,7 @@
-url: https://game-c-sgp1.raznar.id
-status: down
-code: 403
-responseTime: 57
-lastUpdated: 2022-11-11T15:22:48.017Z
+url: $PROXY_1_URL
+status: up
+code: 200
+responseTime: 266
+lastUpdated: 2022-11-11T15:39:26.494Z
 startTime: Fri Nov 11 2022 15:22:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
