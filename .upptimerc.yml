@@ -19,11 +19,17 @@ sites:
     url: $PROXY_1_URL
     port: 443
   - name: GAME-C-SGP1
-    url: https://game-c-sgp1.raznar.id
+    check: "tcp-ping"
+    url: $PROXY_1_URL
+    port: 10001
   - name: GAME-C-SGP2
-    url: https://game-c-sgp2.raznar.id
+    check: "tcp-ping"
+    url: $PROXY_1_URL
+    port: 10002
   - name: GAME-PVE-SGP1
-    url: https://game-pve-sgp1.raznar.id
+    check: "tcp-ping"
+    url: $PROXY_1_URL
+    port: 10003
     
 user-agent: raznar-hosting
 
