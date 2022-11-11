@@ -13,12 +13,20 @@ sites:
   - name: Main Website
     url: https://raznar.id
   - name: Panel Control
-    url: https://console.raznar.host
+    url: https://console-ptero.raznar.id
+  - name: phpmyAdmin
+    url: https://phpmyadmin.raznar.id
+  - name: GAME-C-SGP1
+    url: https://game-c-sgp1.raznar.id
+  - name: GAME-C-SGP2
+    url: https://game-c-sgp2.raznar.id
+  - name: GAME-PVE-SGP1
+    url: https://game-pve-sgp1.raznar.id
     
 user-agent: raznar-hosting
 
 status-website:
-  cname: up.raznar.id
+  cname: uptime.raznar.id
   logoUrl: https://cdn.discordapp.com/attachments/776806054394593321/899842944599728138/20210225_100806.png
   name: Raznar
   status-website:
@@ -31,8 +39,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER
-    - title: Discord
-      href: https://raznar.id/discord
 
 commitMessages:
   commitAuthorName: "NotYusta"
