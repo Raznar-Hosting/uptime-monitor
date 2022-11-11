@@ -15,6 +15,7 @@ sites:
   - name: Panel Control
     url: https://console-ptero.raznar.id
   - name: phpmyAdmin
+    check: "tcp-ping"
     url: $PROXY_1_URL
     port: 443
   - name: GAME-C-SGP1
