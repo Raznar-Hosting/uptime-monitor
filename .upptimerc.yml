@@ -15,7 +15,7 @@ sites:
   - name: Panel Control
     url: https://console-ptero.raznar.id
   - name: phpmyAdmin
-    url: ${{secrets.PROXY_1_URL}}
+    url: $PROXY_1_URL
     port: 443
   - name: GAME-C-SGP1
     url: https://game-c-sgp1.raznar.id
