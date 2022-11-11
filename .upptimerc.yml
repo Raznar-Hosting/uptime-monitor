@@ -10,14 +10,10 @@ skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 sites:
-  - name: Main Website
-    url: https://raznar.id
-  - name: Panel Control
-    url: https://console-ptero.raznar.id
-  - name: phpmyAdmin
+  - name: Websites
     check: "tcp-ping"
     url: $PROXY_1_URL
-    port: 443
+    port: 22
   - name: GAME-C-SGP1
     check: "tcp-ping"
     url: $PROXY_1_URL
