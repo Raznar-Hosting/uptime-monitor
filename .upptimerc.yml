@@ -36,8 +36,8 @@ status-website:
   status-website:
     apiBaseUrl: https://api.github.com
     theme: night
-  introTitle: "Raznar Hosting Uptime Pages"
-  introMessage: "Hey!"
+  introTitle: "Raznar Hosting - Uptime"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
