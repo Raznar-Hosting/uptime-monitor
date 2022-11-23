@@ -31,6 +31,7 @@ user-agent: raznar-hosting
 
 status-website:
   cname: uptime.raznar.id
+  favicon: https://cdn.discordapp.com/attachments/776806054394593321/899842944599728138/20210225_100806.png
   logoUrl: https://cdn.discordapp.com/attachments/776806054394593321/899842944599728138/20210225_100806.png
   name: Raznar
   status-website:
