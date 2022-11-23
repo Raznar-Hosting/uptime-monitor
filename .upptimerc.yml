@@ -22,7 +22,7 @@ sites:
     check: "tcp-ping"
     url: $PROXY_1_URL
     port: 10002
-  - name: GAME-PVE-SGP1
+  - name: GAME-C-SGP3
     check: "tcp-ping"
     url: $PROXY_1_URL
     port: 10003
