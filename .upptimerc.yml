@@ -45,6 +45,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER
 
+i18n:
+  footer: "© 2020 - 2022 Raznar. All Rights Reserved."
 commitMessages:
   commitAuthorName: "NotYusta"
   commitAuthorEmail: "support@raznar.id"
