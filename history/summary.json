@@ -58,23 +58,21 @@
     }
   },
   {
-    "name": "GAME-PVE-SGP1",
+    "name": "GAME-C-SGP3",
     "url": "$PROXY_1_URL",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "game-pve-sgp-1",
+    "slug": "game-c-sgp-3",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 190,
-    "timeDay": 226,
-    "timeWeek": 196,
-    "timeMonth": 190,
-    "timeYear": 190,
-    "dailyMinutesDown": {
-      "2022-11-11": 28
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
+    "dailyMinutesDown": {}
   }
 ]
